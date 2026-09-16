@@ -117,6 +117,11 @@ continua sendo apenas interna.
 `.github/workflows/terraform.yml` — `plan` em pull request, `apply` no push para
 `main`, autenticando na AWS por **OIDC** (sem access key nos Secrets).
 
+## Documentação arquitetural
+
+Diagramas, ADRs, RFCs e modelo de dados do sistema completo:
+**[índice da documentação](https://github.com/IgorSantosXP/auto-repair-api/tree/main/docs)**.
+
 ## API
 
 Collection da API no repositório da aplicação:
